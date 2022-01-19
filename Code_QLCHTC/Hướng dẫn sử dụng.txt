@@ -1,0 +1,9 @@
+* Đăng nhập với hai loại tài khoản:
+- quản lý: 	tendangnhap: nganle 	matkhau: 0308
+- nhân viên: 	tendangnhap: mtam12	matkhau: 123
+* Tại trang chủ vào mục đăng nhập -> mục tendangnhap, mục matkhau để đăng nhập
+
+* Tại trang Đăng ký thông tin -> người dùng nhập họ tên, giới tính, địa chỉ, email,...
+* Tại trang Đăng ký tài khoản -> người dùng nhập tên đăng nhập, mật khẩu,...
+* Người dùng có thể thêm, sửa, xóa, tìm kiếm nhân viên, khách hàng, sản phẩm ở trang quản lý nhân viên, quản lý khách hàng, quản lý sản phẩm
+* Người dùng có thể thêm, sửa, xóa đơn hàng tại trang quản lý đơn hàng và chi tiết đơn hàng.
